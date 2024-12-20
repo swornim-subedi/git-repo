@@ -1,3 +1,3 @@
 #git/github workshop
 swornim subedi 
-dr strange
+dr stranger
